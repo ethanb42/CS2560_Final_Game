@@ -1,0 +1,15 @@
+﻿  pch.cpp
+  FinalGame_2D_Shoot.cpp
+c:\users\ebald\source\repos\finalgame_2d_shoot\finalgame_2d_shoot\finalgame_2d_shoot.cpp(470): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\ebald\source\repos\finalgame_2d_shoot\finalgame_2d_shoot\finalgame_2d_shoot.cpp(595): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ebald\source\repos\finalgame_2d_shoot\finalgame_2d_shoot\finalgame_2d_shoot.cpp(605): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ebald\source\repos\finalgame_2d_shoot\finalgame_2d_shoot\finalgame_2d_shoot.cpp(610): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ebald\source\repos\finalgame_2d_shoot\finalgame_2d_shoot\finalgame_2d_shoot.cpp(618): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ebald\source\repos\finalgame_2d_shoot\finalgame_2d_shoot\finalgame_2d_shoot.cpp(623): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ebald\source\repos\finalgame_2d_shoot\finalgame_2d_shoot\finalgame_2d_shoot.cpp(629): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ebald\source\repos\finalgame_2d_shoot\finalgame_2d_shoot\finalgame_2d_shoot.cpp(634): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ebald\source\repos\finalgame_2d_shoot\finalgame_2d_shoot\finalgame_2d_shoot.cpp(639): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  All 83 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  FinalGame_2D_Shoot.vcxproj -> C:\Users\ebald\source\repos\FinalGame_2D_Shoot\Release\FinalGame_2D_Shoot.exe
